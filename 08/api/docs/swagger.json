@@ -1,0 +1,10 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "title": "Sample API",
+        "contact": {},
+        "license": {},
+        "version": "1.0.0"
+    },
+    "paths": {}
+}
